@@ -13,6 +13,7 @@ from
   inner join vehicles as v on b.vehicle_id = v.vehicle_id
 
 
+
 SELECT
   *
 FROM
@@ -38,7 +39,6 @@ where
 type
   = 'car'
   
-
 
 
 select
